@@ -40,7 +40,7 @@ class Person {
 	Person(String name, int age){
 		
 		this.name = name;
-		age = age;
+		this.age = age;
 		national = "korea";
 //		this(name, age, "korea");
 		
