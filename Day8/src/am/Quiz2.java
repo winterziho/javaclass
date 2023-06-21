@@ -33,7 +33,7 @@ class Rectangle extends Shape {
 
 class Circle extends Shape {
 	void area() {
-		double sum =  pi*r * r ;
+		double sum =  pi * r * r ;
 		System.out.println(sum);
 	}
 }
