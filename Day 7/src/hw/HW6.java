@@ -5,11 +5,27 @@ public class HW6 {
 
 	public static void main(String[] args) {
 		
-		System.out.println(num(1, 2));
+		Student student = new Student();
+		
+		student.setName("Jiho");
+		System.out.println(student.getName());
 
 	}
-	static int num (int a, int b) {
-		int no = a > b ? a : b;
-		return no;
+}
+	
+class Student {
+	private String name;
+
+	public  String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
 	}
 }
+	
+	
+
+
+

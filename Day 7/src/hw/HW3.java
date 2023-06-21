@@ -1,6 +1,6 @@
 package hw;
 
-public class hw3 {
+public class HW3 {
 
 	public static void main(String[] args) {
 		

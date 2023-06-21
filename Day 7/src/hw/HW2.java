@@ -1,7 +1,7 @@
 package hw;
 
 
-public class hw2 {
+public class HW2 {
 
 	public static void main(String[] args) {
 		
