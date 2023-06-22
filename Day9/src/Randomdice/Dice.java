@@ -13,7 +13,7 @@ public class Dice {
 		int roll = ran.nextInt(6)+1;
 		count[roll-1]++;
 		}
-		for(int j = 0 ; j < 6; j ++) {
+		for(int j = 1 ; j < 6; j ++) {
 		System.out.println(j+1 + "나온 횟수 : " +count[j]);
 			}
 	}
