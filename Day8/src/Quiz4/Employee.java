@@ -1,4 +1,4 @@
-package Quiz5;
+package Quiz4;
 
 public class Employee {
 	

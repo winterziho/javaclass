@@ -1,4 +1,4 @@
-package Quiz4;
+package Quiz3;
 
 public class Vehicle {
 	int speed = 0;

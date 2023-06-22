@@ -1,6 +1,6 @@
-package Quiz4;
+package Quiz3;
 
-public class Car extends Vehicle{
+public class Bicycle extends Vehicle{
 	void speedUp() {
 		speed ++ ;
 	}

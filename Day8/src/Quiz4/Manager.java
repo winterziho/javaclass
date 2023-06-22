@@ -1,4 +1,4 @@
-package Quiz5;
+package Quiz4;
 
 public class Manager extends Employee{
 	int bonus = 3000;
