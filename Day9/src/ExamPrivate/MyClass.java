@@ -5,7 +5,7 @@ public class MyClass {
 		private String privateField = "im private";
 		
 		//같은 클래스 내의 매서드를 통해서만 접근 가능 
-		public void accessPrivate() {
+		void accessPrivate() {
 			System.out.println(privateField);
 		}
 }
