@@ -22,10 +22,19 @@ public class Sample {
 		Sample sample = new Sample();
 		int c = sample.sum(a, b);
 		System.out.println(c);
+		String x = sample.say();
+		System.out.println(x);
+		
 	}
 	
 	int sum(int a, int b) {
 		return a + b;
 	}
+	
+	String say() {
+		return "Hi";
+	}
+	
+	void sum2()
 
 }
